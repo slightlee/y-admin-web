@@ -26,6 +26,12 @@
     "updatePassword": "修改密码",
     "logOut": "退出"
   },
+  "tab": {
+    "closeCurrentTabs": "关闭当前标签页",
+    "closeOtherTabs": "关闭其它标签页",
+    "closeAllTabs": "关闭全部标签页",
+    "refreshCurrentTabs": "刷新当前标签页"
+  },
   "aside": {
     "adminCenter": "后台管理中心",
     "admin": "后台",

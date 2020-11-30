@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import store from './store'
-import http from '@/http/httpRequest.js'
+import http from '@/http/http.js'
 // 引入 element-ui
 import ElementUI from 'element-ui'
 // 引入 element-ui 的 css 文件

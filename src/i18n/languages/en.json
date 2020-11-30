@@ -26,6 +26,12 @@
     "updatePassword": "Update Password",
     "logOut": "LogOut"
   },
+  "tab": {
+    "closeCurrentTabs": "Close Current Tabs",
+    "closeOtherTabs": "Close Other Tabs",
+    "closeAllTabs": "Close All Tabs",
+    "refreshCurrentTabs": "Refresh Current Tabs"
+  },
   "aside": {
     "adminCenter": "Admin Center",
     "admin": "AC",
