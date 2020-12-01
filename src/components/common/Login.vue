@@ -78,6 +78,12 @@
                         message: this.$t("login.signInSuccess"),
                         type: 'success'
                     })
+
+                    // 获取动态菜单
+                    this.$http.menu.getMenus().then(response => {
+                        console.log(response)
+                    })
+
                     // 保存token
                     setToken(response.data.token)
                     this.updateName(this.dataForm.userName)
